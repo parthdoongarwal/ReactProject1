@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactProject1/static/css/main.918b7d8c.chunk.css",
+    "main.js": "/ReactProject1/static/js/main.1c15efff.chunk.js",
+    "main.js.map": "/ReactProject1/static/js/main.1c15efff.chunk.js.map",
+    "runtime-main.js": "/ReactProject1/static/js/runtime-main.3f237252.js",
+    "runtime-main.js.map": "/ReactProject1/static/js/runtime-main.3f237252.js.map",
+    "static/js/2.3b9ee808.chunk.js": "/ReactProject1/static/js/2.3b9ee808.chunk.js",
+    "static/js/2.3b9ee808.chunk.js.map": "/ReactProject1/static/js/2.3b9ee808.chunk.js.map",
+    "index.html": "/ReactProject1/index.html",
+    "static/css/main.918b7d8c.chunk.css.map": "/ReactProject1/static/css/main.918b7d8c.chunk.css.map",
+    "static/js/2.3b9ee808.chunk.js.LICENSE.txt": "/ReactProject1/static/js/2.3b9ee808.chunk.js.LICENSE.txt",
+    "static/media/Luffy.40be837b.png": "/ReactProject1/static/media/Luffy.40be837b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f237252.js",
+    "static/js/2.3b9ee808.chunk.js",
+    "static/css/main.918b7d8c.chunk.css",
+    "static/js/main.1c15efff.chunk.js"
+  ]
+}
